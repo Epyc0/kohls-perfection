@@ -1,4 +1,4 @@
---boulevard auto farm
+--boulevard auto farm mail without gui
 
 for i = 1, 1 do
 
